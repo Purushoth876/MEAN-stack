@@ -4,13 +4,13 @@ The MEAN stack is **MongoDB**, **Express.js**, **Angular**, and **Node.js**. Bec
 
 CURD - **Create**, **Update**, **Read**, **Delete**
 
-### Download prerequisite 
+### Download prerequisite ###
 
 	* [Node JS] (https://nodejs.org/en/download/)
 	* [MongoDB] (https://www.mongodb.com/download-center?jmp=nav#community)
 	* [Angular JS] (https://angularjs.org/)
 	
-### Execution
+### Execution ###
 	
 	* Start a mongo server by typing the cmd **mongod**
 	* Start Node server ** node server.js **
