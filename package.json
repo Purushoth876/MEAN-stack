@@ -1,0 +1,31 @@
+{
+  "name": "mean-stack",
+  "version": "1.0.0",
+  "description": "The MEAN stack is **MongoDB**, **Express.js**, **Angular**, and **Node.js**. Because all components of the MEAN stack support programs written in JavaScript, MEAN applications can be written in one language for both server-side and client-side execution environments.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongojs": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purushoth876/MEAN-stack.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "CRUD"
+  ],
+  "author": "Purushothaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Purushoth876/MEAN-stack/issues"
+  },
+  "homepage": "https://github.com/Purushoth876/MEAN-stack#readme"
+}
