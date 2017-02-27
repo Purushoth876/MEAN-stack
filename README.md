@@ -6,6 +6,12 @@ CURD - **Create**, **Update**, **Read**, **Delete**
 
 ### Download prerequisite 
 
-	- [Node JS](https://nodejs.org/en/download/)
-	- [MongoDB](https://www.mongodb.com/download-center?jmp=nav#community)
-	- [Angular JS](https://angularjs.org/)
+	* [Node JS] (https://nodejs.org/en/download/)
+	* [MongoDB] (https://www.mongodb.com/download-center?jmp=nav#community)
+	* [Angular JS] (https://angularjs.org/)
+	
+### Execution
+	
+	* Start a mongo server by typing the cmd **mongod**
+	* Start Node server ** node server.js **
+	
